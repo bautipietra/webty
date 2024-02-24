@@ -94,8 +94,8 @@ export const Hero = () => {
               className='w-full h-full object-cover'
               src='/assets/hero/project-1.png'
               alt='project'
-              width='600'
-              height='600'
+              width='300'
+              height='400'
               draggable='false'
             />
           </div>
@@ -104,8 +104,8 @@ export const Hero = () => {
               className='w-full h-full object-cover'
               src='/assets/hero/project-2.png'
               alt='project'
-              width='800'
-              height='600'
+              width='1000'
+              height='400'
               draggable='false'
             />
           </div>
@@ -115,7 +115,7 @@ export const Hero = () => {
               src='/assets/hero/project-3.png'
               alt='project'
               width='600'
-              height='600'
+              height='400'
               draggable='false'
             />
           </div>
@@ -127,7 +127,7 @@ export const Hero = () => {
               src='/assets/hero/project-4.png'
               alt='project'
               width='600'
-              height='600'
+              height='400'
               draggable='false'
             />
           </div>
@@ -136,8 +136,8 @@ export const Hero = () => {
               className='w-full h-full object-cover'
               src='/assets/hero/project-5.png'
               alt='project'
-              width='600'
-              height='600'
+              width='1000'
+              height='400'
               draggable='false'
             />
           </div>
@@ -146,8 +146,8 @@ export const Hero = () => {
               className='w-full h-full object-cover'
               src='/assets/hero/project-6.png'
               alt='project'
-              width='600'
-              height='600'
+              width='300'
+              height='400'
               draggable='false'
             />
           </div>
